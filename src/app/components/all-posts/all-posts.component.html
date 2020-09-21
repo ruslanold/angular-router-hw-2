@@ -1,0 +1,6 @@
+<div *ngFor="let post of posts">
+    <a routerLink="/post/{{post.id}}">show post</a>
+    <div>title: {{post.title}}</div>
+    <div>body: {{post.body}}</div>
+    <br />
+</div>

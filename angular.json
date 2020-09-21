@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularHw2"
+    }
+  },
+  "defaultProject": "angularHw2",
+  "cli": {
+    "analytics": "81111458-6798-413f-8758-131667e59275"
+  }
 }
